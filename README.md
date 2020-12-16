@@ -10,6 +10,8 @@ I'm a programmer and co-founder of Fuzzy Labs. I like functional programming, AI
 
 * *λ* [My dotfiles](github.com/archena/dotfiles).
 
+Contact: matt _at_ fuzzy labs _dot_ ai
+
 <a href="https://www.linkedin.com/in/matt-squire-a19896125/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
