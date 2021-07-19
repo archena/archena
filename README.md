@@ -1,6 +1,6 @@
 ## 🐝...🐝🐝🐝
 
-Here's a quick list of projects that I maintain or contribute to.
+Hi!
 
 ![](https://badges.pufler.dev/visits/archena/archena)
 
@@ -20,5 +20,6 @@ Contact: matt _at_ fuzzy labs _dot_ ai
 
 [Fuzzy Labs](https://fuzzylabs.ai) is an AI consultancy based in Manchester, UK.
 
+* *λ* [Vertex:Edge](github.com/fuzzylabs/vertex-edge) - deploy your models to Google Cloud using Vertex
 * *λ* [Wearable, my foot](github.com/fuzzylabs/wearable-my-foot) - [wearablemyfoot.tech](https://wearablemyfoot.tech) - open-source AI-powered wearables.
 * *λ* [Computational Delicacies in Jupyter](github.com/fuzzylabs/computational-delicacies-jupyter) - a collection of Jupyter notebooks showcasing techniques in computer vision, NLP, etc.
