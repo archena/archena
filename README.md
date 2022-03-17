@@ -5,14 +5,14 @@
 ### Archena
 I'm a programmer and co-founder of Fuzzy Labs. I like functional programming, AI, IoT, Emacs.
 
-* *λ* [My dotfiles](github.com/archena/dotfiles).
+* *λ* [My dotfiles](https://github.com/archena/dotfiles).
 
 ### Fuzzy Labs
 [Fuzzy Labs](https://fuzzylabs.ai) is a technology company specialising in MLOps based in Manchester, UK.
 
-* *λ* [Vertex:Edge](github.com/fuzzylabs/vertex-edge) - deploy your models to Google Cloud using Vertex.
-* *λ* [Wearable, my foot](github.com/fuzzylabs/wearable-my-foot) - [wearablemyfoot.tech](https://wearablemyfoot.tech) - open-source AI-powered wearables.
-* *λ* [Computational Delicacies in Jupyter](github.com/fuzzylabs/computational-delicacies-jupyter) - a collection of Jupyter notebooks showcasing techniques in computer vision, NLP, etc.
+* *λ* [Vertex:Edge](https://github.com/fuzzylabs/vertex-edge) - deploy your models to Google Cloud using Vertex.
+* *λ* [Wearable, my foot](https://github.com/fuzzylabs/wearable-my-foot) - [wearablemyfoot.tech](https://wearablemyfoot.tech) - open-source AI-powered wearables.
+* *λ* [Computational Delicacies in Jupyter](https://github.com/fuzzylabs/computational-delicacies-jupyter) - a collection of Jupyter notebooks showcasing techniques in computer vision, NLP, etc.
 
 ### Contact details
 * Email: `echo bWF0dEBmdXp6eWxhYnMuYWk= | base64 -d`
