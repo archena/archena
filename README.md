@@ -5,7 +5,7 @@
 ### Archena
 I'm a programmer and co-founder of Fuzzy Labs. I like functional programming, AI, IoT, Emacs.
 
-* Personal website: [EIGN](https://eign.co.uk).
+* Personal website: [mattsquire.tech](https://mattsquire.tech).
 
 ### Fuzzy Labs
 [Fuzzy Labs](https://fuzzylabs.ai) is a technology company specialising in MLOps based in Manchester, UK. We help companies to productionise machine learning effectively through tools and engineering best practice.
